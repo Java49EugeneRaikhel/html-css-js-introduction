@@ -1,0 +1,38 @@
+.logo {
+    text-shadow: 4px 4px 4px rgb(36, 44, 40),-1px 1px 1px rgb(36, 44, 40);
+    font-size: 6em;
+    text-align: center;
+}
+.main-class {
+
+}
+.details-container {
+
+}
+.details-image {
+
+}
+.details-title {
+    text-shadow: 4px 4px 4px black, -1px 1px 1px black;
+    color: silver;
+    font-size: 5em;
+    position: absolute;
+    text-align: center;
+}
+.thumbnails-list {
+    list-style: none;
+}
+.thumbnails-item {
+
+}
+.thumbnails-image {
+    width: 400px;
+    height: 300px;
+}
+.thumbnails-title {
+    font-size: 0.5em;
+    text-align: center;
+}
+.thumbnails-anchor {
+    
+}
